@@ -1,0 +1,6 @@
+- 👋 Hi there, I’m @RatulMaharaj.
+- 👀 I’m really interested in process improvement, automation and web development.
+- 🌱 I’m currently learning rust.
+- 👨🏽‍💻 I’m keen to collaborate if you're interested in building software for actuaries.
+- 📫 You can reach me by sending an email to ratulmaharaj@looped.co.za
+- ✍🏽 I occasionally host some blog posts or useful snippets at ratulmaharaj.com
