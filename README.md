@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning rust.
 - 👨🏽‍💻 I’m keen to collaborate if you're interested in building software for actuaries.
 - 📫 You can reach me by sending an email to ratulmaharaj@looped.co.za
-- ✍🏽 I occasionally host some blog posts or useful snippets at ratulmaharaj.com
+- ✍🏽 I occasionally host some blog posts or useful snippets at [ratulmaharaj.com](https://ratulmaharaj.com)
